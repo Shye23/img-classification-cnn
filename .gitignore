@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual/env
+torch_env/
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data (keep a small README or download script, but ignore raw datasets)
+/data/
+data/
+data/*
+!data/README.txt
+
+# Model checkpoints and large outputs
+/outputs/*.pth
+/outputs/*.pt
+/outputs/*.ckpt
+/outputs/*.h5
+/outputs/*.tar
+/outputs/model.pth
+/outputs/best_model.pth
+
+# Logs and temporary files
+*.log
+training.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Optional: Git LFS-managed patterns (enable LFS if needed)
+# *.pt filter=lfs diff=lfs merge=lfs -text
+# *.pth filter=lfs diff=lfs merge=lfs -text
