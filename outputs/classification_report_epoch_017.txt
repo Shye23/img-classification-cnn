@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      cancer     0.8005    0.6206    0.6992       543
+  non_cancer     0.9062    0.9595    0.9321      2075
+
+    accuracy                         0.8892      2618
+   macro avg     0.8534    0.7901    0.8156      2618
+weighted avg     0.8843    0.8892    0.8838      2618

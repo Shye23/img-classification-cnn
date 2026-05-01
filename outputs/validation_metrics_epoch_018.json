@@ -1,0 +1,16 @@
+{
+  "epoch": 18,
+  "validation_loss": 0.2905178222950403,
+  "validation_accuracy": 0.8884644766997708,
+  "classification_report": "              precision    recall  f1-score   support\n\n      cancer     0.7912    0.6280    0.7002       543\n  non_cancer     0.9076    0.9566    0.9315      2075\n\n    accuracy                         0.8885      2618\n   macro avg     0.8494    0.7923    0.8158      2618\nweighted avg     0.8835    0.8885    0.8835      2618\n",
+  "confusion_matrix": [
+    [
+      341,
+      202
+    ],
+    [
+      90,
+      1985
+    ]
+  ]
+}

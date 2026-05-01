@@ -12,7 +12,6 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Data (keep a small README or download script, but ignore raw datasets)
 /data/

@@ -1,0 +1,9 @@
+{
+  "epochs": 18,
+  "best_epoch": 17,
+  "best_validation_accuracy": 0.8892284186401833,
+  "last_model_path": "E:\\breast-cancer-img-classification\\outputs\\model.pth",
+  "best_model_path": "E:\\breast-cancer-img-classification\\outputs\\best_model.pth",
+  "metrics_csv_path": "E:\\breast-cancer-img-classification\\outputs\\metrics.csv",
+  "training_log_path": "E:\\breast-cancer-img-classification\\outputs\\training.log"
+}

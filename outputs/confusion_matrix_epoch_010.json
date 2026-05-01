@@ -1,0 +1,17 @@
+{
+  "epoch": 10,
+  "labels": [
+    "cancer",
+    "non_cancer"
+  ],
+  "confusion_matrix": [
+    [
+      293,
+      250
+    ],
+    [
+      75,
+      2000
+    ]
+  ]
+}

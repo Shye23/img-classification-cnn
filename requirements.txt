@@ -1,0 +1,21 @@
+
+# Core ML framework (choose appropriate build for your CUDA / CPU)
+# See https://pytorch.org/get-started/locally/ for wheel selection
+torch
+torchvision
+torchaudio
+
+# Common scientific / utility libraries
+numpy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+Pillow
+matplotlib
+seaborn
+tqdm
+
+# Optional: visualization / experiment tracking
+tensorboard
+# wandb

@@ -12,6 +12,17 @@ Key features:
 
 ---
 
+## Dataset
+
+This project uses the Breast Cancer Histopathology Images dataset (IDC dataset) available on Kaggle.
+
+Dataset provided by: Paul Mooney
+Source: https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+
+The dataset contains labeled histopathology image patches categorized into cancerous (IDC-positive) and non-cancerous classes.
+
+---
+
 ## Repository Structure
 
 ```
